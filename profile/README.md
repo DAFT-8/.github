@@ -2,5 +2,5 @@
 
 <p align="center">
     <br>DAFT-8 is a dedicated non-profit curious group of security and software researchers are involved in the development of security, software tools and services.
-    <p align="center"><a href="https://github.com/orgs/DAFT-8/repositories">Our projects</a> | <a href="mailto:doctriney@protonmail.com">Contact Us</a><p>
+    <p align="center"><a href="https://github.com/orgs/DAFT-8/repositories">Our Projects</a> | <a href="mailto:doctriney@protonmail.com">Contact Us</a><p>
 </p>
